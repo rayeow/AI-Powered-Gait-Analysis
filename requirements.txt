@@ -1,7 +1,9 @@
 streamlit
 opencv-python
+opencv-contrib-python
 mediapipe
 numpy
 pandas
 matplotlib
 scipy
+watchdog
